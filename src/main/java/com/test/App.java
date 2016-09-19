@@ -27,6 +27,7 @@ public class App {
 		} finally{
 			System.out.println("finally");
 			System.out.println("OK!!!");
+			System.out.println("OK!!!");
 		}
 	}
 

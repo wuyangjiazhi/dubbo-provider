@@ -26,6 +26,7 @@ public class App {
 			System.exit(0);
 		} finally{
 			System.out.println("finally");
+			System.out.println("OK!");
 		}
 	}
 
